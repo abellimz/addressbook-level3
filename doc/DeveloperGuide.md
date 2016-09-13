@@ -109,6 +109,7 @@ Use case resumes from Step 2.
 4. Should favor DOS style commands over Unix-style commands.
 5. Should take no longer than 5seconds for each command.
 5. Should not require more than 256MB of ram
+5. Should encrypt details that user has specifed as private data
 
 ## Appendix D : Glossary
 
