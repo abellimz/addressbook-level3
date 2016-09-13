@@ -108,6 +108,7 @@ Use case resumes from Step 2.
 3. Should come with automated unit tests and open source code.
 4. Should favor DOS style commands over Unix-style commands.
 5. Should take no longer than 5seconds for each command.
+5. Should not require more than 256MB of ram
 
 ## Appendix D : Glossary
 
